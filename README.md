@@ -71,6 +71,9 @@ The main objective of this project is to analyze and visualize Super Store sales
    
    # Dashboard overview
     Dashboard - 1
+   
    (https://github.com/Akib-hossain10627/Super-store-Management/blob/main/Super%20Store%20Sales%20Performance%20Dashboard-1.png)
+   
     Dashboard - 2
+   
    (https://github.com/Akib-hossain10627/Super-store-Management/blob/main/Super%20Store%20Sales%20Performance%20Dashboard-2.png)
