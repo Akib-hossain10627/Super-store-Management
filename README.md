@@ -1,5 +1,5 @@
 # Super-store-Management
-Super Store Sales Performance Dashboard
+
 ## 📊 Project Objective
 
 The main objective of this project is to analyze and visualize Super Store sales performance data across different locations, customers, products, payment methods, and demographics. The dashboard provides actionable insights into revenue, profit, cost of goods sold (COGS), and sales trends, enabling business leaders to make data-driven decisions for boosting profitability and efficiency.
